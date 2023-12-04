@@ -119,8 +119,5 @@ class AccountTest {
 	/*TODO Account methods, Boundaries, exceptions, null vals
 	 * Bank null guards etc.
 	 * protected variables by creating mockHelpClass.
-	 * 
-	 * 
-	 * 
 	 */
 }
