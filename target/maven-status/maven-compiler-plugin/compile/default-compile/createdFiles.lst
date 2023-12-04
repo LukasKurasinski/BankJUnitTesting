@@ -1,7 +1,0 @@
-bank\Service.class
-bank\Bank.class
-bank\Account.class
-bank\AccountBalanceException.class
-bank\DebitAmountException.class
-bank\package-info.class
-bank\ServiceAdapter.class

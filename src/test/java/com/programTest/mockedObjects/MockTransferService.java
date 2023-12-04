@@ -1,10 +1,10 @@
-package programTest.mockedObjects;
+package com.programTest.mockedObjects;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import bank.Account;
-import bank.ServiceAdapter;
+import com.bank.Account;
+import com.bank.ServiceAdapter;
 
 
 public class MockTransferService extends ServiceAdapter{

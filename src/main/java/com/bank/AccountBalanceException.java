@@ -1,4 +1,4 @@
-package bank;
+package com.bank;
 
 /**
  * This exception is thrown when balance is not correct

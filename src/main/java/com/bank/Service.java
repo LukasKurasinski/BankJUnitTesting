@@ -1,4 +1,4 @@
-package bank;
+package com.bank;
 
 /**
  * Interface common for all of the Service Implementations.

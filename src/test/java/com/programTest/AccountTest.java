@@ -1,4 +1,4 @@
-package programTest;
+package com.programTest;
 
 import static org.junit.Assert.assertThrows;
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -9,12 +9,12 @@ import org.junit.jupiter.api.Test;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
 
-import bank.Account;
-import bank.AccountBalanceException;
-import bank.Bank;
-import bank.DebitAmountException;
-import bank.ServiceAdapter;
-import programTest.mockedObjects.MockTransferService;
+import com.bank.Account;
+import com.bank.AccountBalanceException;
+import com.bank.Bank;
+import com.bank.DebitAmountException;
+import com.bank.ServiceAdapter;
+import com.programTest.mockedObjects.MockTransferService;
 
 class AccountTest {
 

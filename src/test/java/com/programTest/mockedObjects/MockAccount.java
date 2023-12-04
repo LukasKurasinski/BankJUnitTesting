@@ -1,6 +1,6 @@
-package programTest.mockedObjects;
+package com.programTest.mockedObjects;
 
-import bank.Account;
+import com.bank.Account;
 
 /**
  * If we need to get a value from a protected field in our test,
