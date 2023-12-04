@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: test.AccountTest
+Test set: programTest.AccountTest
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.152 s -- in test.AccountTest
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.201 s -- in programTest.AccountTest

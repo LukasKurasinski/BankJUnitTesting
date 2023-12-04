@@ -1,7 +1,7 @@
-main\ServiceAdapter.class
-main\AccountBalanceException.class
-main\Service.class
-main\DebitAmountException.class
-main\Account.class
-main\package-info.class
-main\Bank.class
+bank\Service.class
+bank\Bank.class
+bank\Account.class
+bank\AccountBalanceException.class
+bank\DebitAmountException.class
+bank\package-info.class
+bank\ServiceAdapter.class

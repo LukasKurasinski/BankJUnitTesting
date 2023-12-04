@@ -1,4 +1,4 @@
-package test.mockedObjects;
+package programTest.mockedObjects;
 
 import bank.Account;
 

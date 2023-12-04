@@ -1,4 +1,4 @@
-package test.mockedObjects;
+package programTest.mockedObjects;
 
 import java.util.HashMap;
 import java.util.Map;

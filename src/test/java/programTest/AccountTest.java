@@ -14,7 +14,7 @@ import bank.AccountBalanceException;
 import bank.Bank;
 import bank.DebitAmountException;
 import bank.ServiceAdapter;
-import test.mockedObjects.MockTransferService;
+import programTest.mockedObjects.MockTransferService;
 
 class AccountTest {
 
