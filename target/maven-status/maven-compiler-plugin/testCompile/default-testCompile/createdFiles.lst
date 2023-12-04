@@ -1,0 +1,5 @@
+test\mockedObjects\MockAccount.class
+test\mockedObjects\package-info.class
+test\AccountTest.class
+test\package-info.class
+test\mockedObjects\MockTransferService.class
