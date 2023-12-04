@@ -3,8 +3,8 @@ package test.mockedObjects;
 import java.util.HashMap;
 import java.util.Map;
 
-import main.Account;
-import main.ServiceAdapter;
+import bank.Account;
+import bank.ServiceAdapter;
 
 
 public class MockTransferService extends ServiceAdapter{

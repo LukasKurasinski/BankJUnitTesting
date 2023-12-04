@@ -1,21 +1,19 @@
-package test;
+package programTest;
 
 import static org.junit.Assert.assertThrows;
-import static org.junit.jupiter.api.Assertions.*;
-
-import org.junit.jupiter.api.Test;
-
+import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.when;
 
-import org.junit.Assert;
 import org.junit.jupiter.api.DisplayName;
-import org.mockito.*;
+import org.junit.jupiter.api.Test;
+import org.mockito.Mock;
+import org.mockito.MockitoAnnotations;
 
-import main.Account;
-import main.AccountBalanceException;
-import main.Bank;
-import main.DebitAmountException;
-import main.ServiceAdapter;
+import bank.Account;
+import bank.AccountBalanceException;
+import bank.Bank;
+import bank.DebitAmountException;
+import bank.ServiceAdapter;
 import test.mockedObjects.MockTransferService;
 
 class AccountTest {

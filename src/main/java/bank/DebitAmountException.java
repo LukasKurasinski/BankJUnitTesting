@@ -1,4 +1,4 @@
-package main;
+package bank;
 
 /**
  * This exception is thrown when the debit amount is not correct

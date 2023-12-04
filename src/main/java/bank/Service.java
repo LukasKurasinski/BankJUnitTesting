@@ -1,4 +1,4 @@
-package main;
+package bank;
 
 /**
  * Interface common for all of the Service Implementations.
