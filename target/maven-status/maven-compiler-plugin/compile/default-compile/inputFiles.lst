@@ -1,8 +1,7 @@
-C:\Users\lukas kurasinski\eclipse\BankJUnitTesting\src\main\java\bank\package-info.java
-C:\Users\lukas kurasinski\eclipse\BankJUnitTesting\src\main\java\Account.java
-C:\Users\lukas kurasinski\eclipse\BankJUnitTesting\src\main\java\bank\DebitAmountException.java
-C:\Users\lukas kurasinski\eclipse\BankJUnitTesting\src\main\java\bank\Service.java
-C:\Users\lukas kurasinski\eclipse\BankJUnitTesting\src\main\java\bank\ServiceAdapter.java
-C:\Users\lukas kurasinski\eclipse\BankJUnitTesting\src\main\java\bank\Account.java
-C:\Users\lukas kurasinski\eclipse\BankJUnitTesting\src\main\java\bank\AccountBalanceException.java
-C:\Users\lukas kurasinski\eclipse\BankJUnitTesting\src\main\java\bank\Bank.java
+C:\Users\lukas kurasinski\eclipse\BankJUnitTesting\src\main\java\com\bank\Bank.java
+C:\Users\lukas kurasinski\eclipse\BankJUnitTesting\src\main\java\com\bank\AccountBalanceException.java
+C:\Users\lukas kurasinski\eclipse\BankJUnitTesting\src\main\java\com\bank\DebitAmountException.java
+C:\Users\lukas kurasinski\eclipse\BankJUnitTesting\src\main\java\com\bank\package-info.java
+C:\Users\lukas kurasinski\eclipse\BankJUnitTesting\src\main\java\com\bank\Account.java
+C:\Users\lukas kurasinski\eclipse\BankJUnitTesting\src\main\java\com\bank\Service.java
+C:\Users\lukas kurasinski\eclipse\BankJUnitTesting\src\main\java\com\bank\ServiceAdapter.java
